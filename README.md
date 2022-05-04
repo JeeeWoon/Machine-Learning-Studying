@@ -1,4 +1,5 @@
 # Machine-Learning-Studying
+## 파이썬 머신러닝 완벽 가이드 - 권철민 저
 [Chap1. 파이썬 기반의 머신러닝과 생태계 이해](https://www.notion.so/Chap1-54e784b7444a4411840206568dd27e5d)
 
 [Chap2. 사이킷런으로 시작하는 머신러닝](https://www.notion.so/Chap2-aa83c5ff35a7422898354518ca21285f)
