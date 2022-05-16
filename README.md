@@ -16,6 +16,6 @@
 
 [Chap6. 차원 축소](https://www.notion.so/Chap6-b9968cd1ce3b4c21a74ea4129c847f2a)
 
-[Chap7. 군집화]https://www.notion.so/Chap7-35adf7c7afbe4d7aadd4608563e6119d
+[Chap7. 군집화](https://www.notion.so/Chap7-35adf7c7afbe4d7aadd4608563e6119d)
 
 [군집화 실습 - 고객 세그먼테이션](https://www.notion.so/c27182de929e48c9983a7219a17b5347)
